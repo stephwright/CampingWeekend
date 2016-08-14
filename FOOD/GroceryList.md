@@ -40,5 +40,7 @@
 - [ ] granola
 - [ ] yogurt
 - [ ] fruit leather?
+- [ ] ice cream
+- [ ] popcorn
 
 ##Heidi
