@@ -4,8 +4,12 @@
 - [ ] Coffee and Bialetti / Chemex
 - [ ] cream
 - [ ] 2% milk
-- [ ] soda: Ginger beer, tonic water, root beer, Sierra Mist
-- [ ] orange juice
+- [ ] soda: 
+    - [ ] Ginger beer
+    - [x] tonic water
+    - [x] root beer
+    - [ ] Sierra Mist
+- [x] orange juice
 - [ ] 3 pizzas from Papa Murphy's: pepperoni & cheese, sausage & cheese, herbed med w/ no chicken
 - [ ] sliced mushrooms
 - [ ] baby carrots
