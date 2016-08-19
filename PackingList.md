@@ -9,13 +9,15 @@
   - [ ] stainless filter
 - [ ] sunscreen
 - [ ] swimsuits
+- [ ] Sydney clothes
 - [ ] beach towels
 - [ ] goggles
 - [ ] water shoes
-- [ ] sip on sandals
+- [ ] slip on sandals
 - [ ] DVDs
 - [ ] books
 - [ ] wine
+- [ ] popcorn popper
 - [ ] Sydney's sleeping bag
 - [ ] tarp for tent?
 - [ ] sleeping pads for Sydney & Jaime
